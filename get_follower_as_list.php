@@ -62,18 +62,18 @@ while($keep_running === true) {
 					// Update cursor
 					$cursor = isset($follow['cursor']) ? $follow['cursor'] : '';
 					if(empty($cursor)) {
-						echo PHP_EOL.PHP_EOL.'Done!'.PHP_EOL;
+						//echo PHP_EOL.PHP_EOL.'Done!'.PHP_EOL;
 						$keep_running = false;
 					}
 				}
 
-				echo $string;
+				//echo $string;
 
 				if($write_to_file === true && strlen($string) > 0) {
 					fwrite($handle, $string);
 				}
 			} else {
-				echo PHP_EOL.PHP_EOL.'Done!'.PHP_EOL;
+				//echo PHP_EOL.PHP_EOL.'Done!'.PHP_EOL;
 				$keep_running = false;
 			}
 		} else {

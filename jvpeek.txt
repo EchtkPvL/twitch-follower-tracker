@@ -1,3 +1,4 @@
+cookie_trace
 ufuk_ironman
 dolfje
 metalodyn
@@ -40,7 +41,6 @@ dackelhupe
 nussigesgnu
 herzugvonkeineahnung
 drakoni79
-pooti67
 zleiver
 jonesnoob
 prayhe

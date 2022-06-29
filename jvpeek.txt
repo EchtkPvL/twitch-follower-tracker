@@ -1,3 +1,4 @@
+thepseud0o
 daniplays_twitch
 saintryuk
 lord_kaffeetrinken
@@ -11,7 +12,6 @@ jojopirat
 mrphil001
 bauer_horst83
 bananenbaer_
-thepseud0o
 beneio
 abattlefrontplayer
 thelegumeduprix
@@ -851,7 +851,6 @@ bambambazooka
 maddmann88
 wolfpraktikant
 cowles
-101united
 ov3r_h4ul
 sc0rp1us
 joncantplay

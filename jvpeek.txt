@@ -1593,7 +1593,6 @@ peter_dietrich
 eve_oest
 lykanthrop
 acholdman
-zhoisel
 own4pwn
 felixomias
 jimigrok

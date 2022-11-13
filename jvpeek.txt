@@ -1,3 +1,5 @@
+doctapwn
+sm_mouse
 schmaiki
 cstormcdx
 buffer0xaa55
@@ -876,7 +878,7 @@ neddy_fpv
 n_0v1_c
 zalh81
 krolliii
-astralabius42
+2bluescrews
 ford_pref
 reinekewf
 mydirtyhockey

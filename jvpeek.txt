@@ -2133,7 +2133,6 @@ swiss_r
 mickeymccloud
 wolvesink
 hemabau
-gregbe
 dieser_jojo
 bluefinity
 xonarr_

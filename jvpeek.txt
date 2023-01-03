@@ -863,7 +863,6 @@ salatfee
 districtdoom
 parapol
 kay_neh_ahnung
-floppykoppy
 flinki_klug
 niwa83
 gidsuna

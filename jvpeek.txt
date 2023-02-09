@@ -1,3 +1,5 @@
+tagorsim
+nerdachse
 thepseud0o
 paulersen
 twitchteufel_tv
@@ -1452,7 +1454,6 @@ lasslo3000
 raldriis
 sosov1
 beechiton
-theande
 goquantum
 hirnheiner
 deadx_
@@ -2876,7 +2877,6 @@ theyagich
 j0nas_munich
 tkayvr
 zombien0013
-antonhei
 m4cx
 elematics
 srayligh

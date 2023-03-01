@@ -331,7 +331,6 @@ net_miner
 jpmdc
 syanures
 imkev__
-sunnyssunshine
 anmayzme
 lnk458
 jodo_o
